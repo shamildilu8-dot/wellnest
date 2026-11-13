@@ -1,0 +1,6 @@
+{
+  "name": "Wellnest",
+  "description": "Calm educational health insights workspace for reviewing confirmed lab reports, professionally interpreted genetic findings, and cautious lifestyle suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
